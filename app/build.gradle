@@ -11,11 +11,11 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.apps.adrcotfas.goodtime"
+        applicationId "com.deepak.work.goodtime"
         minSdkVersion 23
         targetSdkVersion 33
         versionCode 145
-        versionName "2.5.5"
+        versionName "1.0.0"
         resConfigs "ar-rSA",
                 "bn-rBD",
                 "bs-rBA",
